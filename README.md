@@ -1,1 +1,5 @@
 # mit-networks-security-journey
+## MIT Network & Information Security - Study Journal 
+**Started:** June 12, 2026 
+**Goal:** Topper in evry unit. Job-ready by November.
+**Degree:** MIT - Networks & Information Security , CQU Sydney --- ### Day 2 - June 13, 2026 **Topics covered:** -OSI model: all 7 layers, PDU names, protocols, attack types per layer - TCP/IP model, TCP 3- way handshake, TCP vs UDP differences - Binary conversion: 8-bit position, converted 8 numbers from memory - Python: if/eif/else, for loops, while loops, range() -Python: functions with def , parameters, return, docstrings **Python files:** - 'day02/day02_practice.py' - if/else and loop exercises - 'day02/day02_project.py' - student grade calculator **What was hard today:** [] **What clicked:** [] **Tomorrow:** IP addressing, subnetting method, Python lists and dicts ---
